@@ -2,7 +2,7 @@
 records=[]
 list_name=[]
 list_grade=[]
-for i in range(int(input())):
+for i in range(int(input("Enter the number:"))):
     name = input()
     grade = float(input())
     records.append([name,grade])
