@@ -19,6 +19,6 @@ for names,marks in classroom.items():
 
 #Delete Kate and Instead add "Jack" with 92 marks
 
-del classroom["Kate"]
+del classroom["Kate"] 
 classroom["Jack"] = 92
 print(classroom)
