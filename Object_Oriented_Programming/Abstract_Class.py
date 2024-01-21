@@ -10,7 +10,9 @@ class Classroom(School):
         print("Students in Classroom")
 
 
-
+class board:
+    def write(self):
+        print("wite on board")
 class Staff:
     def teachers(self,teach):
         print("Teach students")
