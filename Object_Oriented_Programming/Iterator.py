@@ -22,3 +22,5 @@ print(v1.__next__())
 print(next(v1))
 for i in v1:
     print(i)
+
+    
