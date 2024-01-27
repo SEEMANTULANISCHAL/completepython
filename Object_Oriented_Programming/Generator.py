@@ -10,7 +10,7 @@ def perfect_square():
 val = perfect_square()
 for i in val:
     print(i)
-
+#Create with own
 def odd_numbers():
     n = 1
     while n <= 10:
