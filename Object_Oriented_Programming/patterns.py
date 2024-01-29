@@ -1,3 +1,4 @@
+#Type sof pattern
 #1. Print Pattern 4X4 # using while loop
 i=1
 while i<=4:
