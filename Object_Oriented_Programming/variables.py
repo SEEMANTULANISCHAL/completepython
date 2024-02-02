@@ -10,7 +10,7 @@ class Vehicles:
 
 v1 = Vehicles()
 v2 = Vehicles()   
-v3 = Vehicles() 
+v3 = Vehicles()  
 Vehicles.wheel = 6 
 v1.mil = 8            #Instance Variables
 v1.name ="Audi"
