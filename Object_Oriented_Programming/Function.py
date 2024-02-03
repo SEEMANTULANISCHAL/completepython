@@ -1,10 +1,15 @@
-class Nischal:
-    def __init__(self,m1,m2):
-        self.m1 = m1
-        self.m2 = m2
-    def details(self):
-        return self.m1, self.m2
-d1 = Nischal(20,30)
-d2 = Nischal(30,40)
-print(d1.details())
+#Without arguments
+def function():
+    print("This is a function code")
+function()
 
+#With Aarguments
+def function_arg(Name,age):
+    print("My name is %s and age is %d"%(Name,age))
+function_arg("Nischal",21)
+
+#Sum 
+def sum(a,b):
+    return a+b
+x=sum(3,4)
+print(x)
