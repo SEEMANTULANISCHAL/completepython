@@ -1,17 +1,20 @@
-#Without arguments
-def function():
-    print("This is a function code")
-function()
+class function_name:
 
-#With Aarguments
-def function_arg(Name,age):
-    return "My name is %s and age is %d"%(Name,age)
-x = function_arg("Nischal",21)
-print(x)
+    #Without arguments
+    def function(self):
+        return "This is a function code"
+    
 
-#Sum 
-def sum(a,b):
-    return a+b
-x=sum(3,4)
-print(x)
+    #With Aarguments
+    def function_arg(self,Name,age):
+        return "My name is %s and age is %d"%(Name,age)
+   
+   
 
+    #Sum 
+    def sum(self,a,b):
+        return a+b
+    
+   
+d1 = function_name()
+print(d1.function())
