@@ -9,7 +9,7 @@ def guess(x):
             print("sorry! you guessed it too low")
         elif guess > random_num:
             print("sorry! you guessed it too high")
-    print(f"{random_num} is right guess")
+    print(f"Bravoo {random_num} is right guess")
 
 
 guess(10)
