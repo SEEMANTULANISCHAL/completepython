@@ -11,5 +11,5 @@ scores = []
 names = []
 
 for student in Students:
-    
+    print(scores)
     print(name)
