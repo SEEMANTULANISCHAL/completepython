@@ -14,5 +14,5 @@ def computer_guess(x):
             high = guess - 1
         elif feedback == 'l':
             low = guess + 1
-    print("the computer guessed the number right")
+    print("the computer guessed the number right Amazing")
 computer_guess(10)            
