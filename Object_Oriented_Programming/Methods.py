@@ -30,7 +30,7 @@ class Student:
     # Static Method
     @staticmethod
     def static_info():
-        print("This is an example of static method")
+        print("This is an example of static method !!!")
 
 
 
