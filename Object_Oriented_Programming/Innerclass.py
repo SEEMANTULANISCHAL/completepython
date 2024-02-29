@@ -1,3 +1,4 @@
+#Inner Class
 class Robot:
     def __init__(self,n,c,w):
         self.name = n

@@ -1,4 +1,4 @@
-#loops
+#loops in python
 #3. Break Statement Candy machine problem
 x = int(input("Enter number of candies:"))
 av = 10
