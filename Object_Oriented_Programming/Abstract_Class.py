@@ -1,3 +1,4 @@
+#Abstract classes
 from abc import ABC, abstractmethod
 
 class School(ABC):
