@@ -1,4 +1,4 @@
-#Abstract classes
+#Abstract classes Example
 from abc import ABC, abstractmethod
 
 class School(ABC):

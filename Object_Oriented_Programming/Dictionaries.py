@@ -1,5 +1,4 @@
 #Intializing Students in classroom
-
 classroom ={
     "Nischal": 90,
     "Swarna" : 95,
