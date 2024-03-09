@@ -1,4 +1,4 @@
-#Inner Class Join,
+#Inner Class Join!!!
 class Robot:
     def __init__(self,n,c,w):
         self.name = n
