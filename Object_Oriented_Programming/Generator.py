@@ -1,5 +1,4 @@
 #GENERATOR PROBLEM
-#GENERTOR
 def perfect_square():
     num = 1
     while num <= 10:
