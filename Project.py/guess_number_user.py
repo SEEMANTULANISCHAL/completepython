@@ -1,4 +1,3 @@
-#Guess Game Number
 import random 
 def computer_guess(x):
     low = 1
