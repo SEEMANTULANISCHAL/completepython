@@ -1,4 +1,3 @@
-
 classroom ={
     "Nischal": 90,
     "Swarna" : 95,
