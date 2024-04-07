@@ -1,4 +1,4 @@
-#ITERATOR INBUILT
+
 list =[2,3,4,5]
 it = iter(list)
 print(it.__next__())
