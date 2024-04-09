@@ -13,3 +13,5 @@ cars.append("Benz")
 
 #Show array
 print(cars)
+
+cars.append("GT5")
