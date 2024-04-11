@@ -1,4 +1,4 @@
-# madlibs with cristiano
+# madlibs with cristiano Ronaldo
 noun = input("nonun: ")
 symbol = input("symbol: ")
 sport = input("sport: ")
