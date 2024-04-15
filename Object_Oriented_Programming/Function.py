@@ -1,4 +1,3 @@
-#OOPS
 class function_name:
 
     #Without arguments
