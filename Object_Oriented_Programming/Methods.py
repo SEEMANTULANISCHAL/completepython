@@ -1,4 +1,4 @@
-#Types of Methods
+#Types of Methods!!
 # 3 types - Instance,class,static
 # Instance method - two types 1) Accessor method 2) Mutator Method
 
