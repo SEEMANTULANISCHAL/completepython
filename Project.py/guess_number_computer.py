@@ -1,5 +1,5 @@
+#guess number
 import random
-
 def guess(x):
     random_num = random.randint(1,x)
     guess = 0
